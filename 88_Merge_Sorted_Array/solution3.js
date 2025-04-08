@@ -1,3 +1,5 @@
+// Tối ưu hơn trường hợp về trùng lặp code
+
 let nums1 = [1, 2, 3, 0, 0, 0];
 let nums2 = [2, 5, 6];
 let nums = [];

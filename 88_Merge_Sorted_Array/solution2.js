@@ -1,3 +1,5 @@
+// Cùng ý tưởng 1, nhưng thay vì để 2 vòng lặp lồng nhau, ta tách logic tốt hơn
+
 let nums1 = [1, 2, 3, 0, 0, 0];
 let nums2 = [2, 5, 6];
 let nums = [];

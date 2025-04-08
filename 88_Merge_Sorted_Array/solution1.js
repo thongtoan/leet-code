@@ -1,3 +1,6 @@
+// Tạo một array mới để chứa kết quả
+// Dùng vòng lặp kép, lấy từng phần tử của nums1 so sánh với phần tử nums2 theo 3 trường hợp 
+
 let nums1 = [1, 2, 3, 0, 0, 0];
 let nums2 = [2, 5, 6];
 let nums = [];

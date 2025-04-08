@@ -1,3 +1,4 @@
+
 const nums = [3, 5, 7, 7];
 const target = 7;
 let output = [];
